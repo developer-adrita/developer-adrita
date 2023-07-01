@@ -23,10 +23,7 @@ A skilled web developer
 ### 👨‍🏫 &nbsp; About Me
 
 <p align="justify">
-I am a passionate SWE student. I have been learning programming languages, web development, and computer science-related subjects
-to chase my dream 2 years till now.
-After completing my Bsc. in Software Engineering I want to spending much time
-improving my web development skills. Every day I want to learn something new and share my knowledge with others.
+I am an enthusiastic student studying Software Engineering, dedicated to pursuing my dream for the past three years. During this time, I have been actively learning various programming languages, web development, and computer science subjects. Upon completing my BSc degree, my primary focus will be on enhancing my web development skills within the field of Software Engineering. I am committed to daily learning and constantly expanding my knowledge, with a strong desire to share my expertise with others.
 </p>
 
 <!-- about-me section ends here  -->
