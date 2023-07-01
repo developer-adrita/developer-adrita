@@ -1,19 +1,19 @@
 ### Hi there 👋
 ![MasterHead](https://res.cloudinary.com/dbginqlhc/image/upload/v1688236512/github_cover_page_fnx5zq.jpg)
 
-Hello, <img style="height:20px" src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif"><h1> Hello, I'm Adrita Pyne </h1>
+Hello, <img style="height:10px" src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif"><h1> Hello, I'm Adrita Pyne </h1>
 
 
 
 A skilled web developer  
 🏠 &nbsp; Living: Dhaka, Bangladesh
 
-💖 &emsp;I enjoy programming and sharing knowledge <br/>
-💻 &emsp;Most used line of code `console.log("Hello I am Adrita")` <br/>
-🤔 &emsp; I’m looking for people who can enlighten me with amazing programming knowledge.<br/>
-📧 &emsp;How to reach me: adritapyne25@gmail.com <br/>
-🤩 &emsp; Favorite Stack: MERN (MongoDB, Express, React, Node). <br/>
-⚡ &emsp; Fun fact: I never quit with the fear of loose, I lose by trying.
+💖 &emsp; I am deeply passionate about software engineering and find great joy in programming and sharing knowledge with others. <br/>
+💻 &emsp; One of the code snippets I frequently utilize is `console.log("Hello, I am Adrita")`, which allows me to display important information or debug messages. <br/>
+🤔 &emsp; I am eager to connect with like-minded individuals with remarkable programming expertise, as their insights and knowledge can greatly enlighten and inspire me in my professional journey. <br/>
+📧 &emsp; Feel free to reach out to me at adritapyne25@gmail.com. I am always open to engaging in meaningful discussions or collaborating on exciting programming projects. <br/>
+🤩 &emsp; My favorite technology stack is MERN (MongoDB, Express, React, Node). This combination allows me to build robust and scalable web applications efficiently. <br/>
+⚡ &emsp; Fun fact: In this profession, I firmly believe that success comes not from avoiding failure, but from constantly pushing myself to try new things and learn from any setbacks I encounter.
 <br />
 
 <!-- Contact me section ends here  -->
