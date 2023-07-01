@@ -8,12 +8,12 @@ Hello, <img style="height:10px" src="https://raw.githubusercontent.com/nixin72/n
 A skilled web developer  
 🏠 &nbsp; Living: Dhaka, Bangladesh
 
-💖 &emsp; I am deeply passionate about software engineering and find great joy in programming and sharing knowledge with others. <br/>
-💻 &emsp; One of the code snippets I frequently utilize is `console.log("Hello, I am Adrita")`, which allows me to display important information or debug messages. <br/>
-🤔 &emsp; I am eager to connect with like-minded individuals with remarkable programming expertise, as their insights and knowledge can greatly enlighten and inspire me in my professional journey. <br/>
-📧 &emsp; Feel free to reach out to me at adritapyne25@gmail.com. I am always open to engaging in meaningful discussions or collaborating on exciting programming projects. <br/>
-🤩 &emsp; My favorite technology stack is MERN (MongoDB, Express, React, Node). This combination allows me to build robust and scalable web applications efficiently. <br/>
-⚡ &emsp; Fun fact: In this profession, I firmly believe that success comes not from avoiding failure, but from constantly pushing myself to try new things and learn from any setbacks I encounter.
+💖 Passionate about software engineering, programming, and sharing knowledge with others.
+💻 Frequently used code: `console.log("Hello, I am Adrita")`.
+🤔 Seeking knowledgeable individuals to enlighten and inspire me in programming.
+📧 Reach me at adritapyne25@gmail.com for meaningful discussions and collaborations.
+🤩 Favorite stack: MERN (MongoDB, Express, React, Node) for building scalable web applications.
+⚡ Fun fact: I embrace failure as a stepping stone to success.
 <br />
 
 <!-- Contact me section ends here  -->
