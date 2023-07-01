@@ -31,21 +31,6 @@ improving my web development skills. Every day I want to learn something new and
 
 <!-- about-me section ends here  -->
 
-<!-- web related skills section starts here  -->
-
-### 👨🏽‍💻 &nbsp; My Skills:
-<!-- Key skill here on web development  -->
-#### Key Skills on Web development:
-
-<img alt="html5" title="html" width="45" hspace="5" src="./images/html5.svg" /><img alt="css3" title="css" width="45" hspace="5" src="./images/css3.svg" /><img alt="bootstrap" title="bootstrap" width="45" hspace="5" src="./images/bootstrap-round.png"  /><img alt="sass" title="sass" width="45" hspace="5" src="./images/sass-svg.png" /><img alt="javascript" title="javascript" width="45" hspace="5" src="./images/js-p.png" /><img alt="jquery" title="jquery" width="45" hspace="5" src="./images/jquery_icon.svg" /><img alt="react" title="react" width="45" hspace="5" src="./images/react.svg" /><img alt="node" title="node" width="45" hspace="5" src="./images/node.svg" /><img alt="express" title="express" width="45" hspace="5" src="./images/express.png" /><img alt="mongodb" title="mongodb" width="45" hspace="5" src="./images/mongodb.png" /><img alt="mongoose" title="mongoose" width="45" hspace="5" src="./images/mongoose.png" /><img alt="git" title="git" width="45" hspace="5" src="./images/git.png" /><img alt="github" title="github" width="45" hspace="5" src="./images/github.svg" /><img alt="sql" title="sql" width="45" hspace="5" src="./images/sql.png" />
-<br />
-<br />
-
-
-
-
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) 
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=developer-adrita&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=developer-adrita&theme=tokyonight&hide_border=false)<br/>
@@ -59,33 +44,6 @@ improving my web development skills. Every day I want to learn something new and
 
 -->
 
-
-
-
-
-#### Other Skills:
-
-<img align="left" alt="c" title="c" width="45" hspace="5" src="./images/c.svg" />
-<img align="left" alt="c plus plus" title="c++" width="45" hspace="5" src="./images/cplus.svg" />
-<img align="left" alt="java" title="java" width="45" hspace="5" src="./images/java.svg" />
-<img align="left" alt="photoshop" title="photoshop" width="45" hspace="5" src="./images/ps.svg" />
-<img align="left" alt="json" title="json" width="45" hspace="5" src="./images/json.svg" />
-<br />
-<br />
-<br />
-<br />
-
--   Database System
--   Object Oriented Programming
--   Java
--   Discrete Math
--   Operating System
--   MS Word
--   MS Excel
--   MS Powerpoint
--   Adobe Photoshop
-    <!-- other skills and my videos for the computer science section end here  -->
-<br />
 
 
 
