@@ -15,14 +15,6 @@ A skilled web developer
 🤩 &emsp; Favorite Stack: MERN (MongoDB, Express, React, Node). <br/>
 ⚡ &emsp; Fun fact: I never quit with the fear of loose, I lose by trying.
 <br />
-<br />
-<!-- Contact me section starts here  -->
-
-[<img align="left" alt="website" title="website" width="45" hspace="5" src="./images/google-round.svg" />][website]
-[<img align="left" alt="linkedin" title="linkedin" width="45" hspace="5" src="./images/linkedin.svg" />][linkedin]
-<br />
-<br />
-<br />
 
 <!-- Contact me section ends here  -->
 
@@ -95,18 +87,6 @@ improving my web development skills. Every day I want to learn something new and
     <!-- other skills and my videos for the computer science section end here  -->
 <br />
 
-### 💻 &nbsp;IDE & Code-Editors I Use:
-
-<img align="left" alt="vs-code" title="visual studio code" width="45" hspace="5" src="./images/Visual_Studio_Code.png" />
-<img align="left" alt="notepad++" title="notepad++" width="65" hspace="5" src="./images/notepadpp.png" />
-<img align="left" alt="code-block" title="code-blocks" width="45" hspace="5" src="./images/code_blocks.png" />
-<img align="left" alt="netbeans" title="netbeans" width="45" hspace="5" src="./images/netbeans-ide-logo.png" />
-<img align="left" alt="sql-server" title="sql-server" width="45" hspace="5" src="./images/sql-server.png" />
-<img align="left" alt="notepad" title="notepad" width="45" hspace="5" src="./images/notepad.png" />
-<img align="left" alt="IntelliJ_IDEA" title="IntelliJ IDEA" width="45" hspace="5" src="./images/IntelliJ_IDEA_Icon.png" />
-<br />
-<br />
-<br />
 
 
 ### 👨🏻‍🎓 &nbsp; Education
@@ -142,7 +122,7 @@ improving my web development skills. Every day I want to learn something new and
 ---
 
 Thanks for going through my Portfolio.
-All rights reserved by Shaikot Kundu Akash @2020-Present
+All rights reserved by Adrita Pyne @2023-Present
 
 ---
 
