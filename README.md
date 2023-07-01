@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![MasterHead](https://res.cloudinary.com/dbginqlhc/image/upload/v1688236512/github_cover_page_fnx5zq.jpg)
 
-Hello, <img style="height:30px" src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif"><h1> Hello, I'm Adrita Pyne </h1>
+Hello, <img style="height:20px" src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif"><h1> Hello, I'm Adrita Pyne </h1>
 
 
 
