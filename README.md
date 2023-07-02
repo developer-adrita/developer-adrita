@@ -9,9 +9,9 @@ A skilled web developer
 🏠 &nbsp; Living: Dhaka, Bangladesh
 
 💖 Passionate about software engineering, programming, and sharing knowledge with others.<br />
-💻 Frequently used code: `console.log("Hello, I am Adrita")`.<br />
 🤔 Seeking knowledgeable individuals to enlighten and inspire me in programming.<br />
 📧 Reach me at adritapyne25@gmail.com for meaningful discussions and collaborations.<br />
+💻 Frequently used code: `console.log("Hello, I am Adrita")`.<br />
 🤩 Favorite stack: MERN (MongoDB, Express, React, Node) for building scalable web applications.<br />
 ⚡ Fun fact: I embrace failure as a stepping stone to success.<br />
 <br />
@@ -63,9 +63,7 @@ I am an enthusiastic student studying Software Engineering, dedicated to pursuin
 ---
 ### 🎯 &nbsp; Sports / Game / Activities / Hobby:
 
--   🏸 Badminton, 🎮 Gaming
--  💻 Web Designing, 🎥 Watching Movies
--   🏊‍♂️ Swimming, 🚶‍♂️ Walking, 
+-  💻 Web Designing, 🎥 Watching Movies 🚶‍♂️ Walking, 🏸 Badminton
 <!-- my sports and games section ends here  -->
 <!-- Honors & awards section starts here  -->
 
